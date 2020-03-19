@@ -1,0 +1,38 @@
+img
+{
+    margin: 10px;
+    background: gray;
+    border-radius: 20px;
+    border: solid;
+    border-width: 2px;
+    border-color: gray;
+}
+body
+{
+    background: rgb(9, 88, 86);
+    width: 90%;
+    border: solid 2px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    
+}
+fieldset
+{
+    border: fixed;
+    border-radius: 25px;
+    margin: 10px;
+}
+legend
+{
+    border: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    background: yellowgreen;
+    padding: 7px;
+    margin: 10px;
+}
+ul li
+{
+    font-family: fantasy;
+}

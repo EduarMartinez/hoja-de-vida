@@ -1,0 +1,96 @@
+
+.container 
+{
+    border: 1px solid darkgray;
+    margin: 0 auto;
+    padding: 10px;
+    background: rgb(14, 41, 41);
+    color: white;
+    
+}
+
+header
+{
+    border: solid 2px;
+    background: #438590;
+    margin: 10px 0px 20px;
+}
+.imagen
+{
+    width: 100%;
+    background: rgba(116, 182, 226, 0.89);
+    padding: 15px;
+
+}
+.nombre
+{
+    padding: 10px;
+    color: white;
+}
+h3
+{
+    text-align: center;
+    padding: 0px; margin: 0px;
+   
+
+}
+h1
+{
+    text-align: center;
+   
+}
+.inf
+{
+    display: flex;
+  
+}
+.relleno
+{
+    text-align: center;
+    border: solid 5px #438590;
+    padding: 10px;
+}
+p
+{
+    text-align: justify;
+}
+.strella
+{
+    color: yellow;
+ font-size: 15px;
+ margin: 7px;
+}
+.row-strella
+{
+    text-align: center;
+    margin: 10px 0px;
+}
+.strella-rojo
+{
+  color: red;
+ font-size: 15px;
+  margin: 7px;
+}
+ .interes
+ {
+     text-align: justify;
+     font-size: 15px;
+ }
+ .relleno-ama
+ {
+    border: solid 5px #438590;
+     color: white;
+     padding: 10px;
+     text-align: center;
+ }
+ 
+ .inst
+ {
+     color: #800000;
+     font-size: 25px;
+ }
+ h2
+ {
+    border: solid 3px rgba(116, 182, 226, 0.89);
+     padding: 7px;
+ }

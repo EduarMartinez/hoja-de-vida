@@ -1,0 +1,82 @@
+
+.container 
+{
+    border: 1px solid darkgray;
+    margin: 0 auto;
+    padding: 10px;
+    background: rgb(9, 67, 80);
+    color: white;
+  
+}
+header
+{
+    background: rgb(61, 142, 156);
+    color: black;
+    padding: 0px;
+    margin: 0px;
+  
+}
+
+.nombre
+{
+
+ width: 100%;
+ font-size: 45px;
+ text-align: center;
+ background:rgb(61, 142, 156)   ;
+}
+.titulo
+{
+    border: 2px solid #088A85;
+    color: rgb(19, 214, 211);
+   padding : 6px;
+
+}
+
+.row
+{
+    display: flex;
+    margin: 0px 3px ;
+}
+.col-md-6 
+{
+ border-left:3px solid darkcyan; 
+ 
+
+}
+
+
+h1
+{
+    margin: 0px;
+    padding: 0px;
+}
+.inf
+{
+      text-align: center;   
+       width: 100%;
+      float: left;
+      font-size: 12px;
+      background: white;
+      
+}
+b{
+    font-family:fantasy;
+    font-size: 16px;
+  
+}
+.imagen
+{
+    background: white;
+}
+
+.cont-head
+{
+    text-align: justify;
+
+    margin-top: 350px;
+}
+
+h4{
+    font-family: fantasy;
+}

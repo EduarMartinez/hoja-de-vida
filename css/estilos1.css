@@ -1,0 +1,70 @@
+.container 
+{
+    border: 1px solid darkgray;
+    margin: 0 auto;
+    padding: 10px;
+    background: rgb(10, 29, 46);
+    color: white;
+
+}
+
+
+header
+{
+    display: flex;
+    background: #F89939;
+    width: 100%;
+    text-align: left;
+}
+.inf
+{
+    display: flex;
+  
+}
+
+h1
+{
+    text-align: center;
+   
+}
+span
+{
+    
+     margin: 10px;
+     
+}
+.nombre
+{
+
+    color: white;
+}
+h3
+{
+    text-align: center;
+    padding: 0px; margin: 0px;
+   
+
+}
+h4
+{
+    text-align: center;
+    font-family: fantasy;
+}
+.list-group i 
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+.relleno
+{
+    background: #F89939;
+    color: white;
+    padding: 10px;
+
+}
+.col-xs-4
+{
+    background: #0B2F3A;
+
+}
